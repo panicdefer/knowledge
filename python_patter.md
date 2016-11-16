@@ -9,3 +9,5 @@
 [python 时间戳处理](https://funhacks.net/2016/03/19/python%20%E6%97%B6%E9%97%B4%E6%88%B3%E5%A4%84%E7%90%86/)
 
 [shi jian] (http://www.saltycrane.com/blog/2008/11/python-datetime-time-conversions/)
+
+[python opensource  project] (http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
