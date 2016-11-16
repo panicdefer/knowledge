@@ -10,4 +10,4 @@
 
 [shi jian] (http://www.saltycrane.com/blog/2008/11/python-datetime-time-conversions/)
 
-[python opensource  project] (http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+[python opensource  project 目录结构] (http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
