@@ -11,3 +11,5 @@
 [shi jian] (http://www.saltycrane.com/blog/2008/11/python-datetime-time-conversions/)
 
 [python opensource  project 目录结构] (http://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+
+[python blog(书籍)] (https://github.com/damnever/Note/blob/master/note/Python.md#python-zen)
