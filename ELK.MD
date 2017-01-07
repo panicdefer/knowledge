@@ -4,3 +4,7 @@ http://blog.csdn.net/bigstar863/article/details/46684107
 
 
 head插件　http://blog.csdn.net/napoay/article/details/53896348
+
+
+
+http://blog.csdn.net/yanshu2012/article/details/53906558
