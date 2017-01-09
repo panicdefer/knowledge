@@ -8,3 +8,5 @@ head插件　http://blog.csdn.net/napoay/article/details/53896348
 
 
 http://blog.csdn.net/yanshu2012/article/details/53906558
+
+http://qianshangding.iteye.com/blog/2259391
