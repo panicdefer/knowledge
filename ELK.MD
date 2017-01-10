@@ -12,3 +12,6 @@ http://blog.csdn.net/yanshu2012/article/details/53906558
 http://qianshangding.iteye.com/blog/2259391
 
 http://www.itdadao.com/tags/Flume-0.html (IT大道)
+
+
+https://issues.apache.org/jira/browse/FLUME-951 (s3)
