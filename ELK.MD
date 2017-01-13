@@ -26,5 +26,8 @@ http://blog.csdn.net/xiao_jun_0820/article/details/38312091   (source code)
 
 http://blog.csdn.net/xiao_jun_0820/article/details/40581145 (cloudera Mophlines Reference Guide)
 
-
+//自定义组件
 https://my.oschina.net/chunhei2008/blog/388041 (Interceptor code (all))
+
+http://spark8.tech/2015/10/28/flumetuomin/
+
