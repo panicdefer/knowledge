@@ -23,3 +23,5 @@ http://blog.jassassin.com/2015/09/22/flume/flume/ (好文)
 http://itfun.blog.sohu.com/308880964.html　（ｉnterceptor code）
 
 http://blog.csdn.net/xiao_jun_0820/article/details/38312091   (source code)
+
+http://blog.csdn.net/xiao_jun_0820/article/details/40581145 (cloudera Mophlines Reference Guide)
