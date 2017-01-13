@@ -33,3 +33,8 @@ http://spark8.tech/2015/10/28/flumetuomin/
 
 http://www.cnblogs.com/lxf20061900/p/3664602.html
 
+
+http://www.alongsky.com/?p=1433
+
+
+https://github.com/flyaos/flume-collect
