@@ -18,6 +18,8 @@ https://issues.apache.org/jira/browse/FLUME-951 (s3)
 
 http://shift-alt-ctrl.iteye.com/blog/2339981
 
+http://blog.jassassin.com/2015/09/22/flume/flume/ (好文)
+
 
 
 
