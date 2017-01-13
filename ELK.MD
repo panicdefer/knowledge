@@ -15,3 +15,10 @@ http://www.itdadao.com/tags/Flume-0.html (IT大道)
 
 
 https://issues.apache.org/jira/browse/FLUME-951 (s3)
+
+http://shift-alt-ctrl.iteye.com/blog/2339981
+
+
+
+
+
