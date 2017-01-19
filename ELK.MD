@@ -40,3 +40,5 @@ http://www.alongsky.com/?p=1433
 https://github.com/flyaos/flume-collect
 
 http://fangjian0423.github.io/archives/page/7/
+
+http://blog.csdn.net/gsying1474/article/details/51939294
