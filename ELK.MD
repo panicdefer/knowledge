@@ -42,3 +42,6 @@ https://github.com/flyaos/flume-collect
 http://fangjian0423.github.io/archives/page/7/
 
 http://blog.csdn.net/gsying1474/article/details/51939294
+
+（自定义source (目录)）http://lwz891112.iteye.com/blog/2188672
+
