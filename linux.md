@@ -16,3 +16,25 @@
   yum makecache
   yum update
   ```
+  
+### Install Typora in Ubuntu:
+
+- 1. Add Typora Linux repository via command:
+  ```
+  sudo add-apt-repository 'deb https://typora.io linux/'
+  ```
+
+- 2. Setup the key:
+  ```
+  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
+  ```
+- 3. Finally update and install this simple markdown editor:
+  ```
+  sudo apt update
+
+  sudo apt install typora
+  ```
+- 4. And the Typora markdown editor can be removed via command:
+  ```
+  sudo apt remove typora && sudo apt autoremove
+  ```
